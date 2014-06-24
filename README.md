@@ -1,3 +1,5 @@
+<a href='https://bintray.com/oneclick/rubyinstaller/rubyinstaller/view?source=watch' alt='Get automatic notifications about new "rubyinstaller" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_greyscale.png'></a>
+
 # Gradle Shadow
 
 Shadow is an extension of the Gradle Jar task that optimizes FatJar/UberJar creation by using JarInputStream and
