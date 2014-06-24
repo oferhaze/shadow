@@ -1,4 +1,4 @@
-
+[ ![Download](https://api.bintray.com/packages/oferh/smoke1/smoke1/images/download.png) ](https://bintray.com/oferh/smoke1/smoke1/_latestVersion)
 # Gradle Shadow
 
 Shadow is an extension of the Gradle Jar task that optimizes FatJar/UberJar creation by using JarInputStream and
