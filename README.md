@@ -11,7 +11,7 @@ instead of a port of the Maven Shade code. Documentation for version 0.8 and pri
 
 <a href='https://bintray.com/oneclick/rubyinstaller/rubyinstaller/view?source=watch' alt='Get automatic notifications about new "rubyinstaller" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_greyscale.png'></a>
 
-[ ![Download](https://api.bintray.com/packages/johnrengelman/gradle-plugins/gradle-shadow-plugin/images/download.png) ](https://bintray.com/johnrengelman/gradle-plugins/gradle-shadow-plugin/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/oneclick/rubyinstaller/rubyinstaller/images/download.png) ](https://bintray.com/oneclick/rubyinstaller/rubyinstaller/_latestVersion)
 [![Build Status](https://drone.io/github.com/johnrengelman/shadow/status.png)](https://drone.io/github.com/johnrengelman/shadow/latest)
 
 
