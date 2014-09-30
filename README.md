@@ -1,8 +1,8 @@
 [ ![Download](https://api.bintray.com/packages/oferh/maven/smoke3/images/download.svg) ](https://bintray.com/oferh/maven/smoke3/_latestVersion)
 
 
-image::https://api.bintray.com/packages/oferh/maven/smoke3/images/download.svg[link="https://bintray.com/oferh/maven/smoke3/_latestVersion"]
 
+[ ![Download](https://api.bintray.com/packages/oferh/maven/smoke3/images/download.png) ](https://bintray.com/oferh/maven/smoke3/_latestVersion)
 
 blah blah blah
 
