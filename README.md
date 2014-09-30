@@ -5,10 +5,7 @@
 
 
 blah blah blah
-[ ![Download](https://api.bintray.com/packages/jfrog/artifactory/artifactory/images/download.png) ](https://bintray.com/jfrog/artifactory/artifactory/_latestVersion)
 
-
-[ ![Download](https://api.bintray.com/packages/oferh/smoke1/smoke1/images/download.png) ](https://bintray.com/oferh/smoke1/smoke1/_latestVersion)
 # Gradle Shadow
 
 Shadow is an extension of the Gradle Jar task that optimizes FatJar/UberJar creation by using JarInputStream and
