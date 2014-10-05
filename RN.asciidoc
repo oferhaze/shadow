@@ -1,22 +1,37 @@
-release ntoes file from oferhaze/shadow  
-**************ASCIIDOC **************
+= Wireshark wireshark-version:[] Release Notes
+// $Id$
 
-What is Wireshark?
+== What is Wireshark?
 
-Wireshark is the world’s most popular network protocol analyzer. It is used for troubleshooting, analysis, development and education.
+Wireshark is the world's most popular network protocol analyzer. It is
+used for troubleshooting, analysis, development and education.
 
-What’s New
+== What's New
 
-Bug Fixes
+=== Bug Fixes
 
 The following bugs have been fixed:
 
-New and Updated Features
+//* ws-buglink:5000[]
+//* ws-buglink:6000[Wireshark bug]
+//* cve-idlink:2013-2486[]
+//* Wireshark always manages to score tickets for Burning Man, Coachella, and SXSW while you end up working double shifts. ws-buglink:0000[]
 
-The following features are new (or have been significantly updated) since version 1.10:
+=== New and Updated Features
 
-Expert info is now filterable (if the dissector has been updated to support the new API).
+The following features are new (or have been significantly updated)
+since version 1.10:
 
-The Windows installer now uninstalls the previous version of Wireshark silently. You can still run the uninstaller manually beforehand if you wish to run it interactively.
-
-The "Number" column shows related packets and protocol conversation spans (Qt only).
+* Expert info is now filterable (if the dissector has been updated to support
+  the new API).
+* The Windows installer now uninstalls the previous version of Wireshark
+  silently.  You can still run the uninstaller manually beforehand if you wish
+  to run it interactively.
+* The "Number" column shows related packets and protocol conversation spans
+  (Qt only).
+* When manipulating packets with editcap using the -C <choplen> and/or
+  -s <snaplen> options, it is now possible to also adjust the original frame
+  length using the -L option.
+* You can now pass the -C <choplen> option to editcap multiple times, which
+  allows you to chop bytes from the beginning of a packet as well as at the end
+  of a packet in a single step.
